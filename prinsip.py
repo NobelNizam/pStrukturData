@@ -1,4 +1,4 @@
-############################ enkapulasi ##########################
+############################ enkapsulasi ##########################
 class Laptop:
     # membuat private atribut
     def __init__(self, merk, ram, penyimpanan):
