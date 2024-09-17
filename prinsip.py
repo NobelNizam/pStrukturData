@@ -85,7 +85,7 @@ class Harimau(BinatangBuas):
     def __init__(self, makanan, spesies, domisili):
         super().__init__(makanan)
         self.spesies = spesies
-        self.dodomisili = domisili
+        self.domisili = domisili
 
     def memangsa(self):
         return f"Harimau sedang menerkam mangsa!"
